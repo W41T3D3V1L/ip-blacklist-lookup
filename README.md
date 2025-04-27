@@ -4,16 +4,15 @@ IP Lookout is a simple web application built with Next.js that allows users to c
 
 ## Screenshots
 
-*(Add screenshots of the application here)*
-
 *   **Main Interface:**
-    ![Screenshot of the main IP lookup form](placeholder-main.png)
-*   **Results (Not Blacklisted):**
-    ![Screenshot showing results for a clean IP](placeholder-results-clean.png)
-*   **Results (Blacklisted):**
-    ![Screenshot showing results for a blacklisted IP](placeholder-results-blacklisted.png)
+    ![Screenshot 2025-04-27 223520](https://github.com/user-attachments/assets/3e39774d-8520-4e5f-836d-e0d8f5726368)
 
-*(Replace `placeholder-*.png` with actual paths to your screenshots)*
+*   **Results (Not Blacklisted):**
+    ![Screenshot 2025-04-27 223658](https://github.com/user-attachments/assets/ccb2fa21-e4f0-4d8b-a118-2e73a20299bb)
+
+*   **Results (Blacklisted):**
+    ![Screenshot 2025-04-27 223536](https://github.com/user-attachments/assets/8166c513-8169-4116-a6fa-2a9fa3c71331)
+
 
 ## Features
 
