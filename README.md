@@ -36,8 +36,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/W41T3D3V1L/ip-blacklist-lookup.git
+    cd ip-blacklist-lookup
     ```
 
 2.  **Install dependencies:**
